@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "name": "Óleo 5W30", "price": 1200, "stock": 20 },
+    { "name": "Óleo 10W40", "price": 900, "stock": 15 },
+    { "name": "Filtro ABC", "price": 600, "stock": 10 },
+    { "name": "Filtro XYZ", "price": 700, "stock": 8 }
+  ]
+}
